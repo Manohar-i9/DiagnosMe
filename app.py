@@ -9,13 +9,13 @@ app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
-symptom_vectors = np.load('./symptom_vectors 2.npy')
+symptom_vectors = np.load('d:\\UWindsor\\AAI\\Project\\DiagnosMe Project\\symptom_vectors2.npy')
 
 model = SentenceTransformer('all-mpnet-base-v2')
 
-df_diseases_symptoms = pd.read_csv('Dataset/disease-symptoms.csv')
-df_diseases_precautions = pd.read_csv('Dataset/disease-precautions.csv')
-df_diseases_medications = pd.read_csv('Dataset/disease-medications.csv')
+df_diseases_symptoms = pd.read_csv('d:\\UWindsor\\AAI\\Project\\DiagnosMe Project\\Dataset/disease-symptoms.csv')
+df_diseases_precautions = pd.read_csv('d:\\UWindsor\\AAI\\Project\\DiagnosMe Project\\Dataset/disease-precautions.csv')
+df_diseases_medications = pd.read_csv('d:\\UWindsor\\AAI\\Project\\DiagnosMe Project\\Dataset/disease-medications.csv')
 
 df_diseases_symptoms = df_diseases_symptoms.replace(np.nan, '')
 symptoms = df_diseases_symptoms.drop(columns=['Disease'])
