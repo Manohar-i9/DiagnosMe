@@ -1,0 +1,42 @@
+Disease,Common_Medications
+Fungal infection,"Fluconazole, Terbinafine"
+Allergy,"Cetirizine, Loratadine"
+GERD (Gastroesophageal Reflux Disease),"Omeprazole, Ranitidine"
+Chronic cholestasis,Ursodeoxycholic acid
+Drug Reaction,"Antihistamines, Corticosteroids"
+Peptic ulcer diseae,"Omeprazole, Ranitidine"
+AIDS,"Antiretroviral therapy (e.g., Zidovudine)"
+Diabetes,"Metformin, Insulin"
+Gastroenteritis,"Rehydration solutions, Loperamide (for symptom control)"
+Bronchial Asthma,"Inhaled corticosteroids, Salbutamol"
+Hypertension,"Lisinopril, Amlodipine"
+Migraine,"Sumatriptan, Propranolol"
+Cervical spondylosis,"NSAIDs, Physical therapy"
+Paralysis (brain hemorrhage),"Rehabilitation, Anti-hypertensive drugs"
+Jaundice,Treatment depends on underlying cause
+Malaria,Artemisinin-based combination therapies (ACTs)
+Chicken pox,Acyclovir (for severe cases)
+Dengue,"Supportive care, Pain relievers avoiding NSAIDs"
+Typhoid,"Ciprofloxacin, Azithromycin"
+Hepatitis A,Supportive care
+Hepatitis B,"Antiviral therapy (e.g., Tenofovir)"
+Hepatitis C,"Direct-acting antivirals (e.g., Sofosbuvir)"
+Hepatitis D,Pegylated interferon
+Hepatitis E,Supportive care
+Alcoholic hepatitis,"Corticosteroids, Abstinence from alcohol"
+Tuberculosis,"Isoniazid, Rifampin"
+Common Cold,"Rest, Fluids, Over-the-counter cold remedies"
+Pneumonia,"Antibiotics (e.g., Amoxicillin)"
+Dimorphic hemorrhoids (piles),"Topical treatments, Hemorrhoidectomy (for severe cases)"
+Heart attack,"Aspirin, Thrombolytics"
+Varicose veins,"Compression stockings, Sclerotherapy"
+Hypothyroidism,Levothyroxine
+Hyperthyroidism,"Methimazole, Propylthiouracil"
+Hypoglycemia,"Glucose tablets, Dietary adjustments"
+Osteoarthritis,"NSAIDs, Acetaminophen"
+Arthritis,"Disease-modifying antirheumatic drugs (DMARDs), NSAIDs"
+(vertigo) Paroxysmal Positional Vertigo,"Meclizine, Vestibular rehabilitation therapy"
+Acne,"Benzoyl peroxide, Retinoids"
+Urinary tract infection,"Antibiotics (e.g., Trimethoprim/Sulfamethoxazole)"
+Psoriasis,"Topical corticosteroids, Methotrexate"
+Impetigo,"Mupirocin, Oral antibiotics"
